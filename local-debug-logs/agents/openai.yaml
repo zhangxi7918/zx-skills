@@ -1,0 +1,4 @@
+interface:
+  display_name: "Local Debug Logs"
+  short_description: "Collect client/server logs for local debugging."
+  default_prompt: "Use $local-debug-logs to collect recent client and server logs, then diagnose my local debugging issue from the logs and my description."
