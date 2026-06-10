@@ -6,6 +6,7 @@
 
 - `code-review`：代码审查辅助 skill。
 - `local-debug-logs`：本地调试日志收集与整理 skill。
+- `weekly-record`：周刊素材讨论、整理，并写入固定飞书周刊文档的 skill。
 
 ## 使用方式
 

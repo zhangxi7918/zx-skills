@@ -1,0 +1,4 @@
+interface:
+  display_name: "周刊记录"
+  short_description: "把这周看到的资料和体会整理成条目并写入固定飞书周刊"
+  default_prompt: "使用 $weekly-record 整理我这周看到的内容和体会，并更新到飞书周刊。"
