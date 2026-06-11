@@ -1,0 +1,4 @@
+interface:
+  display_name: "面试复盘"
+  short_description: "分析面试录音、妙记或反馈，生成单次复盘并更新求职跟踪表"
+  default_prompt: "使用 $job-interview-review 分析这次面试，并生成单次复盘文档。"

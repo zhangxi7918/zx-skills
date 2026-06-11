@@ -5,6 +5,7 @@
 ## 当前内容
 
 - `code-review`：代码审查辅助 skill。
+- `job-interview-review`：求职面试录音、妙记、转写稿或反馈分析，并生成单次复盘文档的 skill。
 - `local-debug-logs`：本地调试日志收集与整理 skill。
 - `weekly-record`：周刊素材讨论、整理，并写入固定飞书周刊文档的 skill。
 
